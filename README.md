@@ -1,8 +1,16 @@
+<img src="assets/banniere.png" alt="MotoLink — parlez à tout le groupe, quel que soit votre intercom" width="100%">
+
 # MotoLink pour Android
 
 Application de configuration du **boîtier intercom universel MotoLink** : associez l'intercom de votre casque, rejoignez le groupe de vos amis, réglez le volume.
 
 Ce dépôt ne contient que les fichiers d'installation. Chaque version est publiée automatiquement dans les [**Releases**](../../releases).
+
+<p>
+  <img src="assets/2-intercom.png" alt="Association de l'intercom" width="32%">
+  <img src="assets/3-invitation.png" alt="Invitation par QR code" width="32%">
+  <img src="assets/4-pret.png" alt="Tableau de bord prêt à rouler" width="32%">
+</p>
 
 ## Installer
 
