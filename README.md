@@ -2,13 +2,13 @@
 
 # MotoLink pour Android
 
-Application de configuration du **boîtier intercom universel MotoLink** : associez l'intercom de votre casque, rejoignez le groupe de vos amis, réglez le volume.
+Application de configuration du **boîtier intercom universel MotoLink** : associez l'intercom de votre casque, voyez les motards à portée, réglez le volume. Les groupes arriveront avec une mise à jour du boîtier.
 
 Ce dépôt ne contient que les fichiers d'installation. Chaque version est publiée automatiquement dans les [**Releases**](../../releases).
 
 <p>
   <img src="assets/2-intercom.png" alt="Association de l'intercom" width="32%">
-  <img src="assets/3-invitation.png" alt="Invitation par QR code" width="32%">
+  <img src="assets/3-motards.png" alt="Motards à portée et qualité de liaison" width="32%">
   <img src="assets/4-pret.png" alt="Tableau de bord prêt à rouler" width="32%">
 </p>
 
@@ -22,7 +22,7 @@ Android 7.0 ou plus récent, Bluetooth basse consommation requis.
 
 ## Mises à jour
 
-Rien à faire : MotoLink vérifie lui-même s'il existe une nouvelle version et vous la propose (menu ⋮ → *Rechercher une mise à jour* pour vérifier tout de suite). L'application télécharge le fichier, **vérifie son empreinte SHA-256**, puis Android vous demande de confirmer l'installation. Vos boîtiers et groupes mémorisés sont conservés.
+Rien à faire : MotoLink vérifie lui-même s'il existe une nouvelle version et vous la propose (menu ⋮ → *Rechercher une mise à jour* pour vérifier tout de suite). L'application télécharge le fichier, **vérifie son empreinte SHA-256**, puis Android vous demande de confirmer l'installation. Vos boîtiers mémorisés et vos réglages sont conservés.
 
 ## Vérifier un fichier
 
